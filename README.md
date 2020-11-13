@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Termux-Bot" src="https://img.shields.io/badge/Whatsapp Termux Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
- [![CodeFactor](https://www.codefactor.io/repository/github/ben-dev2609/BEN-BOT2/badge/master)](https://www.codefactor.io/repository/github/ben-dev2609/BEN-BOT2/overview/master)
+ [![CodeFactor](https://www.codefactor.io/repository/github/ben-dev2609/BEN-BOT2/badge/MASTER)](https://www.codefactor.io/repository/github/ben-dev2609/BEN-BOT2/overview/MASTER)
 </p>
 <p align="center">
 <a href="https://github.com/ben-dev2609"><img title="Author" src="https://img.shields.io/badge/Author-Ebenezer-red.svg?style=for-the-badge&logo=github"></a>
