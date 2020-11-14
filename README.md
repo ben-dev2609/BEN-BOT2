@@ -29,10 +29,19 @@
 
 # Termux
 ```bash
+> termux-setup-storage
+> pkg install git
+> apt update && apt upgrade
 > git clone https://github.com/ben-dev2609/BEN-BOT2
 > cd BEN-BOT2
-> bash install.sh
-
+> pkg install wget
+> pkg install ffmpeg
+> pkg install nodejs
+> npm i -g cwebp
+> npm i -g ytdl
+> npm i
+> npm i got
+> node index.js
 ```
 
 # Linux 
