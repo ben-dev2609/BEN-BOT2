@@ -37,6 +37,8 @@
 > cd BEN-BOT2
 > unzip BEN-BOT2-MASTER.zip
 > cd BEN-BOT2-MASTER
+> unzip BEN-BOT.zip
+> cd BEN-BOT
 > pkg install wget
 > pkg install ffmpeg
 > pkg install nodejs
