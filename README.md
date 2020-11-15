@@ -31,9 +31,12 @@
 ```bash
 > termux-setup-storage
 > pkg install git
+> pkg install unzip
 > apt update && apt upgrade
 > git clone https://github.com/ben-dev2609/BEN-BOT2
 > cd BEN-BOT2
+> unzip BEN-BOT2-MASTER.zip
+> cd BEN-BOT2-MASTER
 > pkg install wget
 > pkg install ffmpeg
 > pkg install nodejs
